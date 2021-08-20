@@ -3,8 +3,8 @@ page_type: sample
 languages:
   - python
 products:
-  - azure
-  - azure-redis-cache
+  - kubernetes
+  - docker compose
 description: "This sample creates a multi-container application in a kubernetes cluster."
 ---
 
